@@ -34,7 +34,7 @@ function Editor(props) {
     tempValues.points[index] = value;
     setValues(tempValues);
   };
-
+////
   const workExpBody = (
     <div className={styles.detail}>
       <div className={styles.row}>
