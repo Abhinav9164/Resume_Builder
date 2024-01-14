@@ -9,7 +9,7 @@ import LoginNav from './components/LoginNav/Login';
 function App() {
   return ( 
     <div className="App">
-      // <LoginNav/>
+      {/* <LoginNav/> */}
       <Header/>
       <Body />
     </div>
